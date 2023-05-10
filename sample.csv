@@ -1,0 +1,3 @@
+configuration_item,development,production
+VarFoo,FooDev,FooProd
+VarBar,BarDev,BarProd
